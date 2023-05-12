@@ -1,5 +1,5 @@
 ![Weather App](images/shotOne.png)
-![Weather App](images/shotTwo.png)
+
 
 
 # Weather App 
